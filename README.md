@@ -49,8 +49,8 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ![](./images/ex3.jpg)
 
 ## Full Walkthrough Video
-[Link](https://drive.google.com/file/d/1mvxSQzJLF7AJp9s2lE09-I2wTMfrBHRU/view)
-![](./images/runthough.gif)
+[Link](https://drive.google.com/file/d/1MVBnvAmlWNojCc8earvXZnlirJTps7Hg/view)
+![](./images/walkthrough.gif)
 
 ## Contributors
 
